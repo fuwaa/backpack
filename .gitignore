@@ -1,7 +1,0 @@
-/.env
-target
-.vscode
-/uploads
-test
-*_archive
-*.code-workspace
